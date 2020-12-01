@@ -8,7 +8,7 @@ Fast implementation of PageRank [1] and REGOMAX [2] for NetworkX graph library [
 
 [3] Hagberg, A., Swart, P., & S Chult, D. (2008). Exploring network structure, dynamics, and function using NetworkX (No. LA-UR-08-05495; LA-UR-08-5495). Los Alamos National Lab.(LANL), Los Alamos, NM (United States).
 
-On a modern laptop, has been tested for networks4 mill of size up to 0.5 millions nodes and 4.5 millions links.
+On a modern laptop, has been tested on networks of size up to 0.5 millions node and 4.5 millions links.
 
 ## Recquirements
 * Numpy
